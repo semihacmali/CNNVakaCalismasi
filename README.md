@@ -240,8 +240,3 @@ Yeni bir modül eklemek için:
 1. `modules/` klasörüne yeni dosya ekleyin
 2. `main.py`'de import edin
 3. `run_complete_pipeline()` fonksiyonunda kullanın
-
-## 📧 Destek
-
-Sorularınız için kod içindeki yorumları inceleyin.
-
